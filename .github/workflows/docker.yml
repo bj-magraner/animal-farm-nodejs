@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags:
-            bj-magraner/actividad_5.1:latest 
-            ghcr.io/bj-magraner/practica_5.1:latest 
+            bjmagraner/animal-farm:latest 
+            ghcr.io/bj-magraner/animal-farm:latest 

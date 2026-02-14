@@ -38,6 +38,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags:
+          tags: |
             bjmagraner/animal-farm:latest
             ghcr.io/bj-magraner/animal-farm:latest
